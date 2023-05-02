@@ -1,5 +1,5 @@
 import chalk from 'chalk';
-import randomColor from 'randomColor';
+import randomColor from 'randomcolor';
 
 const hue = process.argv[2];
 const luminosity = process.argv[3];
