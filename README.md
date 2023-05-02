@@ -42,6 +42,7 @@ $ node index.js red light
 -[x] Paint the pattern with color
 -[x] Accept input from the user for the hue
 -[x] Accept input from the user for the luminosity
--[] Adjust the random color based on the variables
+-[x] Adjust the random color based on the variables
 `````
+
 # node-random-color-generator
